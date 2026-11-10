@@ -21,7 +21,7 @@ Tap a quick amount or enter a custom amount to add a drink. Adjust the daily tar
 
 ## Data and limits
 
-Drink entries and the goal are stored in localStorage in this browser and do not sync between devices. Sample entries appear the first time the app is opened. A single milliliter unit is used for all values. Hydration needs vary with health, climate, and activity; the default target is only an example, not medical advice.
+Drink entries and the goal are stored in localStorage in this browser and do not sync between devices. If browser storage is unavailable, entries remain usable for the current session but cannot be saved. Sample entries appear the first time the app is opened. A single milliliter unit is used for all values. Hydration needs vary with health, climate, and activity; the default target is only an example, not medical advice.
 
 ## Run and check locally
 
